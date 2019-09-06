@@ -1,6 +1,4 @@
-# 10-SQLAlchemy_Homework
 
-Surfs Up!
 
 
 
